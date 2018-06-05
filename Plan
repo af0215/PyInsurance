@@ -1,0 +1,6 @@
+-- Ting Wang --
+I will proceed with the following (temporary) plan:
+1. Implement InsAcct so that it reflect the complete set of policy holder information
+2. Implement InsAcctIter to reflect the correct logic of policy holder accounting, and along this implementation I will write up the InsModelFees module.
+3. Setup unittest before moving on to the InsModelFA/InsModelFAIter/CurveAggregator implementation.
+

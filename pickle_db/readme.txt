@@ -1,0 +1,1 @@
+This directory is temporary used as a database to store the created objects.
